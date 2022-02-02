@@ -2,6 +2,7 @@
 
 ![Blue Print](https://user-images.githubusercontent.com/72666029/125676719-84c229de-4be1-4563-bc79-915601dd5ddc.png)
     
+    
 2.)  [V5 - VARAHI -IOT BASED MYO NEURO STIMULATOR-VENTURA -PHASE III.pdf](https://github.com/ARUNRITTHIK/MYO_NEURO_STIMULATOR_for_NEURO_PARALYTIC_PATIENTS/files/6818318/V5.-.VARAHI.-IOT.BASED.MYO.NEURO.STIMULATOR-VENTURA.-PHASE.III.pdf)
 
 # 3.) A PATENT is published for this product
